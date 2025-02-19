@@ -16,6 +16,7 @@ crontab -e
 */15 * * * * /path/to/script/battery-notification
 ```
 **⚠️ Notes:** The script will run every 15 minutes
+
 5. Restart Crond
 ```bash
 sudo systemctl restart crond
