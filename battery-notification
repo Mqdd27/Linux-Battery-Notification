@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SOUND_LOW="/home/kimp/.local/share/sounds/bell-notification.wav"
-SOUND_FULL="/home/kimp/.local/share/sounds/full.wav"
+SOUND_LOW="$HOME/.local/share/sounds/bell-notification.wav"
+SOUND_FULL="$HOME/.local/share/sounds/full.wav"
 
 LOCKFILE="/tmp/battery-notify.lock"
 
