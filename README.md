@@ -21,3 +21,15 @@ crontab -e
 ```bash
 sudo systemctl restart crond
 ```
+
+## Looks
+To change the looks and feel use dunstrc in `~/.config/dunst/dunstrc`
+### Battery Critical
+![image](https://github.com/user-attachments/assets/aca1fd92-7bd4-4d52-9e35-9e23592d0ddc)
+
+### Battery Low
+![image](https://github.com/user-attachments/assets/d9874762-81f3-4d43-97bd-8b6489f9c8d5)
+
+### Battery Almost Full
+![image](https://github.com/user-attachments/assets/2f6d9233-e220-49d0-af28-3f22c9d69a6c)
+
