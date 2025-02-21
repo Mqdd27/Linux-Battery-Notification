@@ -4,9 +4,7 @@ Battery Notification Using dunst, cron, and aplay
 ## Setup 
 1. Install dunst, cron, and aplay
 2. download and place the notification sound in
-```bash
-~/.local/share/sounds/name_of_the_notification_sound.wav
-```
+`~/.local/share/sounds/name_of_the_notification_sound.wav`
 3. Add the script to crontab
 ```bash
 crontab -e
